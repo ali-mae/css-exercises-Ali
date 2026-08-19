@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: #ff8899;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+} 
+
+.cool {
+    font-size: 24px;
+}
+
+#ID1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#ID2 {
+    background-color: #88ff00;
+    font-size: 24px;
+    font-weight: bold;
+}
